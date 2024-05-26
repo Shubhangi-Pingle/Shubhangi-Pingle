@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Pingle</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi-pingle&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi-pingle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangi-pingle" alt="shubhangi-pingle" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structured And Algorithms,Full Stack Web Development**
 
