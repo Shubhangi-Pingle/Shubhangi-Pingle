@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhangipingle9307@gmail.com**
 
-<h3 align="left">C🌐 Socials:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhangi pingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangi pingle" height="30" width="40" /></a>
 </p>
